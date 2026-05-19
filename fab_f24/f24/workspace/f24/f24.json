@@ -1,0 +1,48 @@
+{
+ "app": "fab_f24",
+ "charts": [],
+ "content": "[{\"id\":\"fab_f24_header\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">F24</span>\",\"col\":12}},{\"id\":\"fab_f24_shortcut_1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"F24 Payments\",\"col\":3}},{\"id\":\"fab_f24_shortcut_2\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Codici Tributo\",\"col\":3}}]",
+ "creation": "2026-05-19 11:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "file",
+ "idx": 0,
+ "indicator_color": "blue",
+ "is_hidden": 0,
+ "label": "F24",
+ "links": [],
+ "modified": "2026-05-19 11:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "F24",
+ "name": "F24",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 27.0,
+ "shortcuts": [
+  {
+   "color": "Blue",
+   "doc_view": "List",
+   "label": "F24 Payments",
+   "link_to": "F24 Payment",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Codici Tributo",
+   "link_to": "F24 Codice Tributo",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "F24",
+ "type": "Workspace"
+}

@@ -1,0 +1,59 @@
+[
+  {"doctype": "F24 Codice Tributo", "code": "1001", "description": "Ritenute IRPEF su retribuzioni e pensioni - dipendenti", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1002", "description": "Ritenute IRPEF su emolumenti arretrati - dipendenti", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1004", "description": "Ritenute IRPEF su retribuzioni - assimilati ai lavoratori dipendenti", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1012", "description": "Ritenute IRPEF su indennità per cessazione di rapporto di lavoro - TFR", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1040", "description": "Ritenute su redditi da lavoro autonomo - prestazioni occasionali", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1038", "description": "Ritenute su provvigioni inerenti a rapporti di commissione, agenzia, mediazione", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "1631", "description": "Bonus IRPEF (Renzi) erogato ai dipendenti", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "1668", "description": "Interessi pagamento dilazionato - imposte erariali", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1685", "description": "Diritto camerale", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "2001", "description": "IRES - acconto prima rata", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "2002", "description": "IRES - acconto seconda rata o unica soluzione", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "2003", "description": "IRES - saldo", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "3800", "description": "IRAP - saldo", "section": "Regioni", "sezione": "Regioni", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "3812", "description": "IRAP - acconto prima rata", "section": "Regioni", "sezione": "Regioni", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "3813", "description": "IRAP - acconto seconda rata o unica soluzione", "section": "Regioni", "sezione": "Regioni", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "6001", "description": "IVA mensile - gennaio", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6002", "description": "IVA mensile - febbraio", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6003", "description": "IVA mensile - marzo", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6004", "description": "IVA mensile - aprile", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6005", "description": "IVA mensile - maggio", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6006", "description": "IVA mensile - giugno", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6007", "description": "IVA mensile - luglio", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6008", "description": "IVA mensile - agosto", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6009", "description": "IVA mensile - settembre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6010", "description": "IVA mensile - ottobre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6011", "description": "IVA mensile - novembre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6012", "description": "IVA mensile - dicembre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "6031", "description": "IVA trimestrale - 1° trimestre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6032", "description": "IVA trimestrale - 2° trimestre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6033", "description": "IVA trimestrale - 3° trimestre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6034", "description": "IVA trimestrale - 4° trimestre", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6035", "description": "Versamento IVA annuale (saldo)", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "6099", "description": "IVA da dichiarazione annuale - saldo", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "1840", "description": "Acconto IVA mensili", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "1841", "description": "Acconto IVA trimestrali", "section": "Erario", "sezione": "Erario", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "DM10", "description": "INPS - contributi previdenziali dipendenti (DM10)", "section": "INPS", "sezione": "INPS", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "P10", "description": "INPS - artigiani / commercianti (rata fissa)", "section": "INPS", "sezione": "INPS", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "AP", "description": "INPS - contributi alla Gestione Separata (committenti)", "section": "INPS", "sezione": "INPS", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "CXX", "description": "INPS - contributi gestione collaboratori", "section": "INPS", "sezione": "INPS", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "INAIL", "description": "INAIL - autoliquidazione premi", "section": "INAIL", "sezione": "Altri Enti Previdenziali", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "904", "description": "INAIL - premio rata mensile", "section": "INAIL", "sezione": "Altri Enti Previdenziali", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "3850", "description": "Addizionale regionale IRPEF - saldo", "section": "Regioni", "sezione": "Regioni", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "3848", "description": "Addizionale comunale IRPEF - saldo", "section": "IMU e altri tributi locali", "sezione": "IMU", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "3918", "description": "IMU - altri fabbricati - saldo", "section": "IMU e altri tributi locali", "sezione": "IMU", "seeded": 1},
+
+  {"doctype": "F24 Codice Tributo", "code": "1844", "description": "Imposta bollo virtuale - saldo", "section": "Erario", "sezione": "Erario", "seeded": 1},
+  {"doctype": "F24 Codice Tributo", "code": "2502", "description": "Imposta sostitutiva rivalutazione TFR", "section": "Erario", "sezione": "Erario", "seeded": 1}
+]
