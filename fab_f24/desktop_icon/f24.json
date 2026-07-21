@@ -14,7 +14,7 @@
  "modified_by": "Administrator",
  "name": "F24",
  "owner": "Administrator",
- "parent_icon": "FAB",
+ "parent_icon": "fab",
  "restrict_removal": 0,
  "roles": [],
  "standard": 1
