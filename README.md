@@ -26,9 +26,9 @@ incomplete mapping cannot produce an unbalanced entry.
 
 ## Status
 
-Phase 1: doctypes, XML and PDF parsers, JE booking, calendar wiring.
-Note: a codici tributo seed list ships in `setup/` but is not wired to any
-install hook yet; codici are created on first import.
+Phase 1: doctypes, XML and PDF parsers, JE booking, calendar wiring,
+common codici tributo seeded on install and migrate. Codici found in
+imported files but missing from the seed are created on the fly.
 
 ## License
 

@@ -20,6 +20,9 @@ required_apps = ["erpnext", "fab_italy_tax"]
 # 	}
 # ]
 
-# Note: F24 Codice Tributo records are seeded by the install/setup script, not as fixtures,
-# because the seeded entries are keyed by `code` (autoname) — Frappe's fixture importer
-# requires an explicit `name` field which would duplicate the data.
+# Note: F24 Codice Tributo records are seeded by install.seed_codici_tributo, not as
+# fixtures, because the seeded entries are keyed by `code` (autoname) and Frappe's
+# fixture importer requires an explicit `name` field which would duplicate the data.
+
+after_install = "fab_f24.install.after_install"
+after_migrate = ["fab_f24.install.after_migrate"]
