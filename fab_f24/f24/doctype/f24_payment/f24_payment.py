@@ -89,13 +89,15 @@ class F24Payment(Document):
 				row["credit_in_account_currency"] = abs(net)
 			je.append("accounts", row)
 
-		# CR bank by saldo finale
-		je.append("accounts", {
-			"account": self.bank_account,
-			"credit_in_account_currency": self.saldo_finale,
-			"cost_center": frappe.db.get_value("Company", self.company, "cost_center"),
-			"user_remark": _("F24 payment via {0}").format(self.bank_account),
-		})
+		# CR bank by saldo finale; a compensazione F24 (saldo zero) moves debt
+		# between tribute accounts without touching the bank
+		if flt(self.saldo_finale):
+			je.append("accounts", {
+				"account": self.bank_account,
+				"credit_in_account_currency": self.saldo_finale,
+				"cost_center": frappe.db.get_value("Company", self.company, "cost_center"),
+				"user_remark": _("F24 payment via {0}").format(self.bank_account),
+			})
 
 		je.insert(ignore_permissions=True)
 		je.submit()
